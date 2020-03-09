@@ -8,7 +8,7 @@ Demo: http://todoism.helloflask.com
 
 ![Screenshot](http://helloflask.com/screenshots/todoism.png)
 
-## Installation
+## Installation How to install this
 
 clone:
 ```
